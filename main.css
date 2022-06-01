@@ -1,6 +1,30 @@
+body {
+  background-color: rgb(231, 229, 210);
+}
+
 #navbar {
   position: relative;
 }
+
+#welcome-section {
+  background-color: rgb(25, 93, 93);
+  color: aliceblue;
+  text-align: center;
+  font-weight: bold;
+}
+
+#projects {
+  background-color: cadetblue;
+  text-align: justify;
+  font-weight: bold;
+}
+
+#navbar {
+  background-color: aliceblue;
+  border: 10px 10px 10px 10px;
+  border-color: aliceblue;
+}
+
 @@media (max-width: 720px) {
   font-size: 1.5em;
 }
