@@ -1,0 +1,6 @@
+#navbar {
+  position: relative;
+}
+@@media (max-width: 720px) {
+  font-size: 1.5em;
+}
